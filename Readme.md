@@ -43,19 +43,6 @@ An object-oriented simulation of an ATM system with separate classes for the **B
 
 ---
 
-### 4️⃣ Currency Converter (Bonus)
-A single-file Java program that fetches **real-time currency exchange rates** from an online API and converts an amount from a base currency to a target currency.
-
-**Features:**
-- User selects base and target currency codes
-- Fetches latest rates from `https://api.exchangerate.host/`
-- Converts the entered amount and displays results with currency codes
-- Error handling for failed API requests
-
-**Concepts Used:** HTTP Requests, JSON Parsing, API Integration, User Input
-
----
-
 ## 🛠 Requirements
 - **Java 8 or higher**
 - Internet connection (only for Currency Converter)
